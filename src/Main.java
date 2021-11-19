@@ -2,6 +2,7 @@ public class Main {
 
     public static void main(String[] agrs) {
         Bulbul b = new Bulbul(Names.getName());
+        System.out.println();
 
         b.dance();
 //        Park p = new Park();
